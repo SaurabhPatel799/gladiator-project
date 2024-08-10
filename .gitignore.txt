@@ -1,0 +1,15 @@
+# Ignore virtual environment
+venv/
+
+# Ignore build and distribution directories
+build/
+dist/
+
+# Ignore the .spec file (optional)
+*.spec
+
+# Ignore cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
